@@ -22,6 +22,5 @@ This is a simple Task Manager web application built using HTML, CSS, and JavaScr
 
 ## Live Application
 https://incomparable-buttercream.netlify.app
-
 ## GitHub Repository
-(Paste your GitHub link here)
+https://github.com/palicherlabhavani/task-manager.git
